@@ -129,25 +129,25 @@
         <p onclick="window.location.href='/admin'" class="nav-item-enhanced flex items-center gap-4 cursor-pointer" style="padding-left: 16px;"> 
             <i class="fa-solid fa-chart-line"></i> Dashboard
         </p>
-        <p onclick="window.location.href='config.php'" class="nav-item-enhanced flex items-center gap-4 cursor-pointer" style="padding-left: 16px;"> 
+        <p onclick="window.location.href='/admin/config.php'" class="nav-item-enhanced flex items-center gap-4 cursor-pointer" style="padding-left: 16px;"> 
             <i class="fa-solid fa-gear"></i> Configurações
         </p>
-        <p onclick="window.location.href='gateway.php'" class="nav-item-enhanced flex items-center gap-4 cursor-pointer" style="padding-left: 16px;"> 
+        <p onclick="window.location.href='/admin/gateway.php'" class="nav-item-enhanced flex items-center gap-4 cursor-pointer" style="padding-left: 16px;"> 
             <i class="fa-solid fa-landmark"></i> Gateway
         </p>
-        <p onclick="window.location.href='usuarios.php'" class="nav-item-enhanced flex items-center gap-4 cursor-pointer" style="padding-left: 16px;"> 
+        <p onclick="window.location.href='/admin/usuarios.php'" class="nav-item-enhanced flex items-center gap-4 cursor-pointer" style="padding-left: 16px;"> 
             <i class="fa-solid fa-users"></i> Usuários
         </p>
-        <p onclick="window.location.href='afiliados.php'" class="nav-item-enhanced flex items-center gap-4 cursor-pointer" style="padding-left: 16px;"> 
+        <p onclick="window.location.href='/admin/afiliados.php'" class="nav-item-enhanced flex items-center gap-4 cursor-pointer" style="padding-left: 16px;"> 
             <i class="fa-solid fa-people-arrows"></i> Afiliados
         </p>
-        <p onclick="window.location.href='cartelas.php'" class="nav-item-enhanced flex items-center gap-4 cursor-pointer" style="padding-left: 16px;"> 
+        <p onclick="window.location.href='/admin/cartelas.php'" class="nav-item-enhanced flex items-center gap-4 cursor-pointer" style="padding-left: 16px;"> 
             <i class="fa-solid fa-gem"></i> Raspadinhas
         </p>
-        <p onclick="window.location.href='depositos.php'" class="nav-item-enhanced flex items-center gap-4 cursor-pointer" style="padding-left: 16px;"> 
+        <p onclick="window.location.href='/admin/depositos.php'" class="nav-item-enhanced flex items-center gap-4 cursor-pointer" style="padding-left: 16px;"> 
             <i class="fa-solid fa-plus-circle"></i> Depósitos
         </p>
-        <p onclick="window.location.href='saques.php'" class="nav-item-enhanced flex items-center gap-4 cursor-pointer" style="padding-left: 16px;"> 
+        <p onclick="window.location.href='/admin/saques.php'" class="nav-item-enhanced flex items-center gap-4 cursor-pointer" style="padding-left: 16px;"> 
             <i class="fa-solid fa-minus-circle"></i> Saques
         </p>
         

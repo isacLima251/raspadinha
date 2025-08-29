@@ -1202,7 +1202,7 @@ $activeGateway = $stmt->fetchColumn();
        <nav class="nav-menu">
             <div class="nav-section">
                 <div class="nav-section-title">Principal</div>
-                <a href="index.php" class="nav-item">
+                <a href="/admin/index.php" class="nav-item">
                     <div class="nav-icon"><i class="fas fa-chart-pie"></i></div>
                     <div class="nav-text">Dashboard</div>
                 </a>
@@ -1210,19 +1210,19 @@ $activeGateway = $stmt->fetchColumn();
             
             <div class="nav-section">
                 <div class="nav-section-title">Gestão</div>
-                <a href="usuarios.php" class="nav-item">
+                <a href="/admin/usuarios.php" class="nav-item">
                     <div class="nav-icon"><i class="fas fa-user"></i></div>
                     <div class="nav-text">Usuários</div>
                 </a>
-                <a href="afiliados.php" class="nav-item">
+                <a href="/admin/afiliados.php" class="nav-item">
                     <div class="nav-icon"><i class="fas fa-user-plus"></i></div>
                     <div class="nav-text">Afiliados</div>
                 </a>
-                <a href="depositos.php" class="nav-item">
+                <a href="/admin/depositos.php" class="nav-item">
                     <div class="nav-icon"><i class="fas fa-credit-card"></i></div>
                     <div class="nav-text">Depósitos</div>
                 </a>
-                <a href="saques.php" class="nav-item active">
+                <a href="/admin/saques.php" class="nav-item active">
                     <div class="nav-icon"><i class="fas fa-money-bill-wave"></i></div>
                     <div class="nav-text">Saques</div>
                 </a>
@@ -1230,23 +1230,23 @@ $activeGateway = $stmt->fetchColumn();
             
             <div class="nav-section">
                 <div class="nav-section-title">Sistema</div>
-                <a href="config.php" class="nav-item">
+                <a href="/admin/config.php" class="nav-item">
                     <div class="nav-icon"><i class="fas fa-cogs"></i></div>
                     <div class="nav-text">Configurações</div>
                 </a>
-                <a href="gateway.php" class="nav-item">
+                <a href="/admin/gateway.php" class="nav-item">
                     <div class="nav-icon"><i class="fas fa-usd"></i></div>
                     <div class="nav-text">Gateway</div>
                 </a>
-                <a href="banners.php" class="nav-item">
+                <a href="/admin/banners.php" class="nav-item">
                     <div class="nav-icon"><i class="fas fa-images"></i></div>
                     <div class="nav-text">Banners</div>
                 </a>
-                <a href="cartelas.php" class="nav-item">
+                <a href="/admin/cartelas.php" class="nav-item">
                     <div class="nav-icon"><i class="fas fa-diamond"></i></div>
                     <div class="nav-text">Raspadinhas</div>
                 </a>
-                <a href="../logout" class="nav-item">
+                <a href="/logout" class="nav-item">
                     <div class="nav-icon"><i class="fas fa-sign-out-alt"></i></div>
                     <div class="nav-text">Sair</div>
                 </a>
